@@ -1,15 +1,10 @@
-
-
 <div align="center">
   <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
   
 <!-- Taruh kode ini tepat di bawah tulisan ## 👨‍💻 Tentang Saya -->
-<img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer Animation">
+<img width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer Animation">
 
-<img align="right" width="220" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Circuit Animation">
-
-
-
+<img width="220" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Circuit Animation">
 
   <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
 
