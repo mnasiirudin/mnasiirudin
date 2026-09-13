@@ -1,11 +1,11 @@
 <div align="center">
   <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
 
-  <img width="250" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Processor Animation">
+  <img width="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Processor Animation">
 
   
-<!-- Taruh kode ini tepat di bawah tulisan ## 👨‍💻 Tentang Saya -->
-<img width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer Animation">
+<!-- Taruh kode ini tepat di bawah tulisan 
+<img width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer Animation"> -->
 
   <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
 
