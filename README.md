@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, Saya M Nasirudin</h1>
-<h3 align="center">Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</h3>
+<h2 align="center"> ⚡ <code>Hello_World!</code> Saya M Nasirudin ⚡ </h2>
+
+<p align="center">
+  <b>[ Mahasiswa Teknik Elektronika | Founder Dotryx ]</b><br>
+  <i>"Menjembatani dunia fisik dan digital melalui perangkat keras dan kode."</i>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=>_Initializing_Embedded_System...;>_Loading_Robotics_Module...;>_Compiling_Firmware...;>_System_Ready!" alt="Typing SVG" />
+  </a>
+</p>
+<br>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +22,7 @@
 ## 👨‍💻 Tentang Saya
 Saya adalah mahasiswa D4 Teknik Elektronika di **Politeknik Elektronika Negeri Surabaya (PENS)** angkatan 2024. Saat ini saya juga menginisiasi **Dotryx**, sebuah inisiatif yang berfokus pada eksplorasi elektronik, AI, dan robotika.
 
-- ⚙️ **Fokus Utama:** Pengembangan arsitektur *bare-metal* & RTOS (C/C++), desain *multi-layer PCB* (EasyEDA Pro, Altium), dan mekanika robotika.
+- ⚙️ **Fokus Utama:** Pengembangan Embedded Systems & Robotika. Saya berfokus merancang perangkat cerdas, memadukan pembuatan perangkat keras (hardware) dan pemrograman agar sistem dapat berfungsi secara mandiri.
 - 🏆 **Pencapaian:** Finalis Internasional Petrosains RBTX Challenge (Kuala Lumpur) & Head of Senior High School Division untuk Java Robot Contest (JRC XII - XIII).
 - 💡 **Minat Saat Ini:** Eksplorasi sistem gerak kompleks (Mecanum, Swerve, Omni-drive), pemodelan sistem kontrol dengan MATLAB/Simulink, dan otomasi berbasis PLC.
 - 📫 **Hubungi Saya:** [Tautkan Email/LinkedIn kamu di sini]
@@ -41,13 +53,16 @@ Saya adalah mahasiswa D4 Teknik Elektronika di **Politeknik Elektronika Negeri S
 *   **Z80 Microprocessor Minsys:** Desain skematik dan simulasi *board minimum system* Z80 yang mengintegrasikan *memory decoding* dan ekspansi periferal 82C55 PPI.
 *   **RFID Vehicle Security Gate:** Implementasi gerbang keamanan otomatis yang menggabungkan *reader* RFID UHF HW-VX6330K, ESP32, motor *stepper*, dan antarmuka manajemen web.
 
-## 📊 Statistik GitHub
+## 📊 Statistik & Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnasiirudin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnasiirudin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- Menampilkan jumlah pengunjung profilmu (View Counter) -->
+  <img src="https://komarev.com/ghpvc/?username=mnasiirudin&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnasiirudin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- Menggunakan server alternatif (demolab) yang lebih minim error -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mnasiirudin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mnasiirudin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
