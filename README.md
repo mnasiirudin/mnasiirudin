@@ -1,6 +1,11 @@
+
+
 <div align="center">
   <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
   
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnasiirudin&bg_color=0D1117&color=2E86C1&line=2E86C1&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
   <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
 
