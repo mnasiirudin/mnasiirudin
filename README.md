@@ -3,15 +3,15 @@
   <!-- Judul -->
   <h2> <code>Hello_World!</code> </h2>
 
-  <!-- Animasi GIF -->
+  <!-- Masukkan link gambar GIF yang sudah kamu upload ke GitHub di bagian src="" di bawah ini -->
   <img width="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Animasi">
+  
 
   <!-- Subtitle / Role -->
-  <br><br>
   <b>Electronics Engineering Student 🎓 | Founder of Dotryx 🚀 | Embedded Systems & Robotics 🤖</b>
   <br><br>
 
-  <p align="center">
+  <p align="center"> <!-- Satu tag <p> saja sudah cukup -->
     <!-- Baris 1: Bahasa Pemrograman -->
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -42,4 +42,3 @@
   <hr>
 
 </div>
-
