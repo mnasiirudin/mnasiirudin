@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
 
-  <img width="250" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" alt="Processor Animation">
+  <img width="250" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Processor Animation">
 
   
 <!-- Taruh kode ini tepat di bawah tulisan ## 👨‍💻 Tentang Saya -->
