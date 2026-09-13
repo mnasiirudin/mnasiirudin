@@ -1,22 +1,11 @@
 <div align="center">
   <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
-<div align="center">
-  <h2> ⚡ <code>Hello_World!</code> I'M Nasirudin ⚡ </h2>
-  <br>
+
   <img width="250" src="https://cdn.dribbble.com/users/160117/screenshots/3110922/robot-dribbble.gif" alt="Robot Animation">
-</div>
 
-<div align="center">
-  <h2> ⚡ <code>Hello_World!</code> I'M Nasirudin ⚡ </h2>
-  <br>
-  <img width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/iot_animation.gif" alt="IoT Animation">
-</div>
+<img width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/iot_animation.gif" alt="IoT Animation">
 
-<div align="center">
-  <h2> ⚡ <code>Hello_World!</code> I'M Nasirudin ⚡ </h2>
-  <br>
   <img width="250" src="https://cdn.dribbble.com/users/2065842/screenshots/7625515/media/1eb270a316ebfc225dc10cb863773a46.gif" alt="Processor Animation">
-</div>
 
   
 <!-- Taruh kode ini tepat di bawah tulisan ## 👨‍💻 Tentang Saya -->
