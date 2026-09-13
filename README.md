@@ -33,8 +33,8 @@
   <!-- Baris 4: Desain Hardware, CAD & Otomasi -->
   <img src="https://img.shields.io/badge/EasyEDA-%2300A9E0.svg?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA" />
   <img src="https://img.shields.io/badge/Altium_Designer-%23A5CD39.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
-  <img src="https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
-<img src="https://img.shields.io/badge/Eagle_CAD-%2300843D.svg?style=for-the-badge" alt="Eagle CAD" />
+  <img src="https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white&logoWidth=30" alt="KiCad" />
+<img src="https://img.shields.io/badge/Eagle_CAD-%2300843D.svg?style=for-the-badge" alt="Eagle" />
   <img src="https://img.shields.io/badge/Autodesk_Inventor-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Inventor" />
   <img src="https://img.shields.io/badge/PLC_Omron-%230055FF.svg?style=for-the-badge" alt="PLC Omron" />
 </p>
