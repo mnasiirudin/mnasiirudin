@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin ⚡ </h2>
+  <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
   
 
   <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
@@ -23,7 +23,6 @@ Saya adalah mahasiswa D4 Teknik Elektronika di **Politeknik Elektronika Negeri S
 - ⚙️ **Fokus Utama:** Pengembangan Embedded Systems & Robotika. Saya berfokus merancang perangkat cerdas, memadukan pembuatan perangkat keras (hardware) dan pemrograman agar sistem dapat berfungsi secara mandiri.
 - 🏆 **Pencapaian:** Finalis Internasional Petrosains RBTX Challenge (Kuala Lumpur) & Head of Senior High School Division untuk Java Robot Contest (JRC XII - XIII).
 - 💡 **Minat Saat Ini:** Eksplorasi sistem gerak kompleks (Mecanum, Swerve, Omni-drive), pemodelan sistem kontrol dengan MATLAB/Simulink, dan otomasi berbasis PLC.
-- 📫 **Hubungi Saya:** [Tautkan Email/LinkedIn kamu di sini]
 
 ## 🛠️ Tech Stack & Tools
 
