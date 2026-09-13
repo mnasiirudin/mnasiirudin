@@ -1,13 +1,3 @@
-<!-- Gambar banner melengkung, warna biru -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=200&section=header&text=Halo,%20Saya%20M%20Nasirudin&fontSize=40&fontColor=ffffff&animation=twinkling" />
-
-<h3 align="center">Electronics Engineering Student | Founder of Dotryx | Embedded Systems</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=E7352C&center=true&vCenter=true&width=500&lines=Merancang+Perangkat+Keras;Memprogram+Sistem+Cerdas;Membangun+Robotika" alt="Typing" />
-</p>
-<br>
-
 <div align="center">
   <h1>Halo! 👋 Saya M Nasirudin</h1>
   <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
