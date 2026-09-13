@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Halo! 👋 Saya M Nasirudin</h1>
+  <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin ⚡ </h2>
+  
+
   <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
 
 <p align="center">
