@@ -1,11 +1,7 @@
 <div align="center">
   <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
 
-  <img width="250" src="https://cdn.dribbble.com/users/160117/screenshots/3110922/robot-dribbble.gif" alt="Robot Animation">
-
-<img width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/iot_animation.gif" alt="IoT Animation">
-
-  <img width="250" src="https://cdn.dribbble.com/users/2065842/screenshots/7625515/media/1eb270a316ebfc225dc10cb863773a46.gif" alt="Processor Animation">
+  <img width="250" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" alt="Processor Animation">
 
   
 <!-- Taruh kode ini tepat di bawah tulisan ## 👨‍💻 Tentang Saya -->
