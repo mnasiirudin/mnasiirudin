@@ -1,6 +1,7 @@
 <div align="center">
   <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
- 
+ <img align="right" width="250" src="https://media.giphy.com/media/3o7aD2saalEvpjjKUM/giphy.gif" alt="Mechanical Gears Animation">
+  
   <img  width="250" src="https://media.giphy.com/media/qgQUggmaHIlsU/giphy.gif" alt="Coding Matrix Animation">
   
   <img width="250" src="https://media.giphy.com/media/L0wU9R8wI7y82wI5O5/giphy.gif" alt="Robotics Droid Animation">
