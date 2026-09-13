@@ -3,11 +3,9 @@
 <div align="center">
   <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
   
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mnasiirudin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
+<!-- Taruh kode ini tepat di bawah tulisan ## 👨‍💻 Tentang Saya -->
+<img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer Animation">
+
 
 
   <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
