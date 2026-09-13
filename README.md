@@ -4,8 +4,11 @@
   <h2 align="center">  <code>Hello_World!</code> I'M Nasirudin </h2>
   
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnasiirudin&bg_color=0D1117&color=2E86C1&line=2E86C1&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mnasiirudin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </p>
+
 
   <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
 
