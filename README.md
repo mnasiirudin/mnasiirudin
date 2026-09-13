@@ -1,17 +1,20 @@
-<h2 align="center"> ⚡ <code>Hello_World!</code> Saya M Nasirudin ⚡ </h2>
-
-<p align="center">
-  <b>[ Mahasiswa Teknik Elektronika | Founder Dotryx ]</b><br>
-  <i>"Menjembatani dunia fisik dan digital melalui perangkat keras dan kode."</i>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=>_Initializing_Embedded_System...;>_Loading_Robotics_Module...;>_Compiling_Firmware...;>_System_Ready!" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <h1>Halo! 👋 Saya M Nasirudin</h1>
+  <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
+  
+  <p>
+    <a href="https://git.io/typing-svg">
+      <!-- Teks animasinya diubah agar tidak terlalu teknis -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Membangun+Perangkat+Elektronik+Cerdas;Eksplorasi+Robotika+%26+Otomasi;Merancang+Hardware+dari+Nol" alt="Typing SVG" />
+    </a>
+  </p>
+  
+  <!-- Tombol Sosial Media (Ganti linknya dengan milikmu) -->
+  <a href="https://linkedin.com/in/username-linkedin-mu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:email.kamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/dotryx_id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
 <br>
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
