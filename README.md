@@ -1,13 +1,12 @@
 <div align="center">
   <h1>Halo! 👋 Saya M Nasirudin</h1>
   <h3><i>Electronics Engineering Student | Founder of Dotryx | Embedded Systems & Robotics</i></h3>
-  
-  <p>
-    <a href="https://git.io/typing-svg">
-      <!-- Teks animasinya diubah agar tidak terlalu teknis -->
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Membangun+Perangkat+Elektronik+Cerdas;Eksplorasi+Robotika+%26+Otomasi;Merancang+Hardware+dari+Nol" alt="Typing SVG" />
-    </a>
-  </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=>_Initializing_Embedded_System...;>_Loading_Robotics_Module...;>_Compiling_Firmware...;>_System_Ready!" alt="Typing SVG" />
+  </a>
+</p>
   
   <!-- Tombol Sosial Media (Ganti linknya dengan milikmu) -->
   <a href="https://linkedin.com/in/username-linkedin-mu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -15,12 +14,6 @@
   <a href="https://instagram.com/dotryx_id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 <br>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Embedded+Firmware+Developer;Robotics+%26+Automation;PCB+%26+Hardware+Designer;3D+CAD+%26+Rapid+Prototyping" alt="Typing SVG" />
-  </a>
-</p>
 
 ## 👨‍💻 Tentang Saya
 Saya adalah mahasiswa D4 Teknik Elektronika di **Politeknik Elektronika Negeri Surabaya (PENS)** angkatan 2024. Saat ini saya juga menginisiasi **Dotryx**, sebuah inisiatif yang berfokus pada eksplorasi elektronik, AI, dan robotika.
