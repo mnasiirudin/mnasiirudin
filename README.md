@@ -24,6 +24,8 @@
     <img src="https://img.shields.io/badge/EasyEDA_Pro-%2300A9E0.svg?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA" />
     <img src="https://img.shields.io/badge/Autodesk_Inventor-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Inventor" />
     <img src="https://img.shields.io/badge/MATLAB-%23D86707.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  
   </p>
 
   <br>
