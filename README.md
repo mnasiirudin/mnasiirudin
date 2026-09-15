@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Judul -->
-  <h2> <code>Hello_World!</code> </h2>
+  <h2> <code>Mengubah kopi jadi baris kode</code> </h2>
 
   <!-- Masukkan link gambar GIF yang sudah kamu upload ke GitHub di bagian src="" di bawah ini -->
   <img width="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Animasi">
